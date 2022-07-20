@@ -1,2 +1,5 @@
-new books are added
-books are available
+new books are removed
+old books are refreshed
+conflicts between new and old book are resolved
+read books
+okay
